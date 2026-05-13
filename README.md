@@ -1,4 +1,4 @@
-# lightZK
+# NightZK
 
 ## Requirements
 
